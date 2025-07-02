@@ -3,6 +3,8 @@
 
 An interactive Power BI dashboard built using hospital emergency room data over a 19-month period. It visualizes patient admissions, wait times, satisfaction scores, and demographic patterns to improve operational efficiency and patient care quality.
 
+Live Demo: https://app.powerbi.com/groups/me/reports/1e26e391-e904-4b09-9393-a2c3939da8a7/23233ec93e2d4bea1b1e?experience=power-bi
+
 🧰 Tech Stack:
 
 Power BI – Interactive dashboard creation
